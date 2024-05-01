@@ -66,6 +66,31 @@ Welcome to my Data Analytics Portfolio! Explore the below projects highlighting 
 |---|---|---|---|
 | 🏥 [Dialysis of Patients](https://github.com/puliraghavi/Healthcare-Analytics-Project) | Healthcare Analytics | During my internship at Ai Variant, I analyzed dialysis treatment data across various chain organizations, providing valuable insights by addressing key performance indicators requested by stakeholders. Performed EDA in MySQL and built an interactive dashboard on Excel|[Dasboard](https://mavenanalytics.io/project/14264)|
 
+***
+# Certifications and Achievements
+
+**1. Business Analytics Certification - ExcelR** 
+![BA cert_Puli Raghavi_page-0001](https://github.com/puliraghavi/puliraghavi/assets/119037510/eb8ead24-ab5a-42ef-9b3e-e85c1d9e45a8)
+
+**2. Ai Variant Internship - 6 months**
+![AI-BA 7344 Ms Puli Raghavi_page-0001](https://github.com/puliraghavi/puliraghavi/assets/119037510/4c2f1520-295d-431f-b598-4854125dde24)
+
+**3. The Sparks Foundation Internship (DSBA)- 1 month**
+![Puli Raghavi -DSBA Intern](https://github.com/puliraghavi/puliraghavi/assets/119037510/05221a66-408b-400b-abf9-d1995d78fccb)
+
+**4. SQL Advanced Certification - Hackerrank**
+![sql_advanced certificate_page-0001](https://github.com/puliraghavi/puliraghavi/assets/119037510/8243273f-b149-4743-8585-8cc41a472f65)
+
+**5. Tata IQ Job Stimulation- Forage**
+![tata cert jpg](https://github.com/puliraghavi/puliraghavi/assets/119037510/455e9547-e446-4ab8-bb2c-8a291464c24b)
+
+**6. JP Morgan Job Stimulation - Forage**
+![jp morgan cert](https://github.com/puliraghavi/puliraghavi/assets/119037510/79f2397b-cc0c-465d-b1c6-e5772a6a8877)
+
+
+
+
+
 
 
 
