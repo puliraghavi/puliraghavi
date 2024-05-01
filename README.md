@@ -1,11 +1,13 @@
 <h1 align="center">Hey there👋, I'm Puli Raghavi</h1>
 <h3 align="center">Business/ Data Analyst</h3>
 
-- 🔭 I’m currently working on **EDA on Global Terrorism**
+- 🔭 I’m currently working on **A report on Gen Z and their Career aspirations**
 
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/puliraghavi?tab=repositories)
+
+- 📊 View all the live dashboards designed by me [here](https://mavenanalytics.io/profile/Puli-Raghavi/181816706)
 
 - 💬 Ask me about **Power BI, SQL, Excel**
 
