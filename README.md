@@ -67,6 +67,7 @@ Welcome to my Data Analytics Portfolio! Explore the below projects highlighting 
 | Project Link | Domain | Project Description | Live Dashboard |
 |---|---|---|---|
 | 🏥 [Dialysis of Patients](https://github.com/puliraghavi/Healthcare-Analytics-Project) | Healthcare Analytics | During my internship at Ai Variant, I analyzed dialysis treatment data across various chain organizations, providing valuable insights by addressing key performance indicators requested by stakeholders. Performed EDA in MySQL and built an interactive dashboard on Excel|[Dasboard](https://mavenanalytics.io/project/14264)|
+| 🏥 Gen Z Careers| Survey-based analysis | I did this project during the 90-day Data Analytics Programme with Kulture Hire. Gained core skills in problem statement formulation, documentation frameworks, surveying for data collection, advanced Excel data standardization techniques, EDA in SQL, and dashboard creation.| [Dasboard](https://mavenanalytics.io/project/14349)|
 
 ***
 # Certifications and Achievements
