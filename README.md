@@ -53,7 +53,7 @@ Welcome to my Data Analytics Portfolio! Explore the below projects highlighting 
 | Project Link | Area | Project Description | 
 |---|---|---|
 | 📊 [8-week SQL Challenge](https://github.com/puliraghavi/8-week-SQL-Challenge/tree/main) | Data Cleaning, Data manipulation, Data transformation, Data analysis| In this project, I have solved 8 Case Studies featured in the [#8 week SQL Challenge](https://8weeksqlchallenge.com/). It underscores my proficiency in handling varied SQL challenges, and exhibits my ability in crafting SQL queries, problem-solving, data manipulation, and database management |
-| [Gemini vs ChatGPT - SQL mini project](https://github.com/puliraghavi/Gemini-Vs-ChatGPT---SQL-Mini-Project) | Satistical Analysis, Comparision Studies | This project aims to compare the capabilities of two large language models (LLMs): Gemini Ultra and ChatGPT 4.using SQL to analyze their performance across various benchmarks to determine their strengths and weaknesses. | 
+| [Gemini vs ChatGPT - SQL mini project](https://github.com/puliraghavi/Gemini-Vs-ChatGPT---SQL-Mini-Project) | Satistical Analysis, Comparision Studies | This [project](https://nitish2162001.github.io/Challenges/case1.html) aims to compare the capabilities of two large language models (LLMs): Gemini Ultra and ChatGPT 4.using SQL to analyze their performance across various benchmarks to determine their strengths and weaknesses. | 
 
 ***
 # Power BI
