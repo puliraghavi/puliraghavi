@@ -85,10 +85,13 @@ Welcome to my Data Analytics Portfolio! Explore the below projects highlighting 
 ## **4. SQL Advanced Certification - Hackerrank**
 ![sql_advanced certificate_page-0001](https://github.com/puliraghavi/puliraghavi/assets/119037510/8243273f-b149-4743-8585-8cc41a472f65)
 
-## **5. Tata IQ Job Stimulation- Forage**
+## **5. Kulture Hire - [Data Analytics Program](https://kulturehire.com/course/data-analytics-job-simulation-program) (12 Weeks)**
+![Kulture hire cert_page-0001](https://github.com/puliraghavi/puliraghavi/assets/119037510/ae5558f7-3092-46f8-ab99-2e3d646564fe)
+
+## **6. Tata IQ Job Stimulation- Forage**
 ![tata cert jpg](https://github.com/puliraghavi/puliraghavi/assets/119037510/455e9547-e446-4ab8-bb2c-8a291464c24b)
 
-## **6. JP Morgan Job Stimulation - Forage**
+## **7. JP Morgan Job Stimulation - Forage**
 ![jp morgan cert](https://github.com/puliraghavi/puliraghavi/assets/119037510/79f2397b-cc0c-465d-b1c6-e5772a6a8877)
 
 
